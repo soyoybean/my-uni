@@ -23,11 +23,11 @@ to help them better settle to a safe, enjoyable college community.
 
 
 ## Challenges
-- [] Set up firebase user authentication
-- [] \(not effective until covid is over) Location-based networking
-- [] create categories of community (club, class of xxxx, major, college etc.)
-- [] Therapist (make on-campus well being centers/crisis hotlines more accessible)
-- [] Find and call nearest police station
+- [ ] Set up firebase user authentication
+- [ ] \(not effective until covid is over) Location-based networking
+- [ ] create categories of community (club, class of xxxx, major, college etc.)
+- [ ] Therapist (make on-campus well being centers/crisis hotlines more accessible)
+- [ ] Find and call nearest police station
 
 ## Market Evaluation
 
