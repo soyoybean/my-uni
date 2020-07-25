@@ -1,4 +1,4 @@
-# My Uni
+# My Uni 8-) :purple_heart:
 A new Flutter application that assists college students' social life and safety 
 so as to more easily settle down in their new community.
 
