@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576773376293",
+    "firebase_url": "https://my-uni-f8498.firebaseio.com",
+    "project_id": "my-uni-f8498",
+    "storage_bucket": "my-uni-f8498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576773376293:android:62345f72edc1aca5b332cc",
+        "android_client_info": {
+          "package_name": "com.example.myuniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576773376293-lvtfhq5bt08uutt02e8l0jcdqfuqfmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_CysswQ4M238aqjkqbP1JSr5karFlVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576773376293-lvtfhq5bt08uutt02e8l0jcdqfuqfmki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
