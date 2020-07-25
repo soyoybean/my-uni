@@ -1,16 +1,42 @@
-# myuniapp
+# My Uni
+A new Flutter application that assists college students' social life and safety 
+so as to more easily settle down in their new community.
 
-A new Flutter application.
+## Project Status
+Development in process and ongoing.
 
-## Getting Started
+## Installation
+Connect phone to computer and run program.
 
-This project is a starting point for a Flutter application.
+## The Problem
+College students often have a difficult time settling into their new community. From safety and
+networking to and self-realization; This app's target audience is college students with the purpose
+to help them better settle to a safe, enjoyable college community.
 
-A few resources to get you started if this is your first Flutter project:
+## Research
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Storyboard
+
+
+## Prototyping (Low-fidelity, mood board, high-fidelity)
+
+
+## Challenges
+[] Set up firebase user authentication
+[] \(not effective until covid is over) Location-based networking
+[] create categories of community (club, class of xxxx, major, college etc.)
+[] Therapist (make on-campus well being centers/crisis hotlines more accessible)
+[] Find and call nearest police station
+
+## Market Evaluation
+
+
+## Final Product (How to Use the App)
+
+
+## Future Work
+
+
+## Roles
+Soyon Kim - Prototyping, Literature Study, Write Up, Code
