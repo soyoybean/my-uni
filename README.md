@@ -30,7 +30,8 @@ to help them better settle to a safe, enjoyable college community.
 
 
 ## Prototyping (Low-fidelity, mood board, high-fidelity)
-![Alt text](/screenshots/200726_myuni_1.png?raw=true "First Screenshot")
+![Alt text](/screenshots/200726_myuni_1.png?raw=true "Initial homescreen")
+![Alt text](/screenshots/200726_myuni_2.png?raw=true "Drawer with pfp")
 
 ## Challenges
 

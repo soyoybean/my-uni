@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:myuniapp/profile.dart';
+import 'package:myuniapp/notifications.dart';
+import 'package:myuniapp/settings.dart';
 //import 'package:url_launcher/url_launcher.dart';
 //import 'dart:async';
 
@@ -113,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Padding(
                       padding: EdgeInsets.all(8.0),
                       child: Text(
-                        'Username',
+                        'Soyon Kim',
                         style: TextStyle(color: Colors.white, fontSize: 20.0),
                       ),
                     ),
@@ -121,10 +124,11 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
             ),
-            CustomListTile(Icons.person, 'Profile', () => {}),
-            CustomListTile(Icons.notifications, 'Notifications', () => {}),
-            CustomListTile(Icons.settings, 'Settings', () => {}),
-            CustomListTile(Icons.close, 'Log Out', () => {})
+            CustomListTile(Icons.person, 'Profile', () => Profile()),
+            CustomListTile(
+                Icons.notifications, 'Notifications', () => Notifications()),
+            CustomListTile(Icons.settings, 'Settings', () => Settings()),
+            CustomListTile(Icons.close, 'Log Out', () => Profile())
           ],
         ),
       ),
@@ -159,9 +163,9 @@ class _MyHomePageState extends State<MyHomePage> {
 class CustomListTile extends StatelessWidget {
   IconData icon;
   String text;
-  Function onTap;
+  Widget Function() createPage;
 
-  CustomListTile(this.icon, this.text, this.onTap);
+  CustomListTile(this.icon, this.text, this.createPage);
 
   @override
   Widget build(BuildContext context) {
@@ -173,7 +177,13 @@ class CustomListTile extends StatelessWidget {
             border: Border(bottom: BorderSide(color: Colors.grey.shade400))),
         child: InkWell(
           splashColor: Colors.purpleAccent,
-          onTap: onTap,
+          onTap: () {
+            Navigator.of(context).pop();
+            Navigator.of(context)
+                .push(MaterialPageRoute(builder: (BuildContext context) {
+              return createPage();
+            }));
+          },
           child: Container(
             height: 50,
             child: Row(
