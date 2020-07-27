@@ -14,7 +14,8 @@ networking to and self-realization; This app's target audience is college studen
 to help them better settle to a safe, enjoyable college community.
 
 ## To-Do List
-- [x] Set up firebase for user authentication (android yes, ios iffy)
+- [x] Set up firebase for user authentication (android yes, ios yes)
+- [ ] Set up geolocator (android: yes, ios: fixing exceptions)
 - [ ] Work on prototype (what user info data will be used?)
 - [ ] Set up user login setting
 - [ ] Set up user account (pfp, name, college, major etc.) and user info data for firebase to track
