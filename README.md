@@ -4,7 +4,10 @@ so as to more easily settle down in their new community.
 
 ## Project Status
 Development in process and ongoing.
-drawer(pfp, direct to profile, notif, settings pages), firebase, geolocation for android.
+drawer(pfp, direct to profile, notif, settings pages), firebase, geolocator for android.
+Geolocator on iOS is unbearably malfunctioning for the past two days :,)
+I will try once more tomorrow and if it still won't work, I will work on something else until I
+am sane enough to work on it again.
 
 ## Installation
 Connect phone to computer and run program.
