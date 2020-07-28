@@ -4,6 +4,7 @@ so as to more easily settle down in their new community.
 
 ## Project Status
 Development in process and ongoing.
+drawer(pfp, direct to profile, notif, settings pages), firebase, geolocation for android.
 
 ## Installation
 Connect phone to computer and run program.
