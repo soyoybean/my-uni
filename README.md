@@ -18,6 +18,7 @@ to help them better settle to a safe, enjoyable college community.
 ## To-Do List
 ### Side task that should be ongoing throughout the whole process
 - [ ] Work on prototype (what user info data will be used?)
+- [ ] What functions can be implemented?
 
 ### Programming
 - [x] Set up firebase for user authentication (android yes, ios yes)
