@@ -19,6 +19,7 @@ to help them better settle to a safe, enjoyable college community.
 ### Side task that should be ongoing throughout the whole process
 - [ ] Work on prototype (what user info data will be used?)
 - [ ] What functions can be implemented?
+- [ ] Work on documentation
 
 ### Programming
 - [x] Set up firebase for user authentication (android yes, ios yes)
