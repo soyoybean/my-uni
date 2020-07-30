@@ -5,9 +5,7 @@ so as to more easily settle down in their new community.
 ## Project Status
 Development in process and ongoing.
 drawer(pfp, direct to profile, notif, settings pages), firebase, geolocator for android.
-Geolocator on iOS is unbearably malfunctioning for the past two days :,)
-I will try once more tomorrow and if it still won't work, I will work on something else until I
-am sane enough to work on it again.
+For some reason, iOS geolocator won't display the lat/long coordinates. I will try new implements of the package.
 
 ## Installation
 Connect phone to computer and run program.
@@ -18,10 +16,13 @@ networking to and self-realization; This app's target audience is college studen
 to help them better settle to a safe, enjoyable college community.
 
 ## To-Do List
-- [x] Set up firebase for user authentication (android yes, ios yes)
-- [ ] Set up geolocator (android: yes, ios: fixing exceptions)
-- [ ] Set up user login setting
+### Side task that should be ongoing throughout the whole process
 - [ ] Work on prototype (what user info data will be used?)
+
+### Programming
+- [x] Set up firebase for user authentication (android yes, ios yes)
+- [x] Set up geolocator (android: yes, ios: yes, but need to try diff implementation and see if that works)
+- [ ] Set up user login setting
 - [ ] Set up user account (pfp, name, college, major etc.) and user info data for firebase to track
 - [ ] \(effective even for those living on campus during covid) Location-based networking
 - [ ] create categories of community (club, class of xxxx, major, college etc.)
