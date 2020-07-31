@@ -33,6 +33,9 @@ class _Settings extends State<Settings> {
     );
   }
 
+  /** GETCURRENTLOCATION
+   * retrieve current location at best accuracy.
+   */
   _getCurrentLocation() {
     final Geolocator geolocator = Geolocator()..forceAndroidLocationManager;
 
