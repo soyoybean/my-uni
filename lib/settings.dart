@@ -19,8 +19,8 @@ class _Settings extends State<Settings> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             if (_currentPosition != null)
-              Text(
-                  "LAT: ${_currentPosition.latitude}, LNG: ${_currentPosition.longitude}"),
+              Text("LAT: ${_currentPosition.latitude}, "
+                  "LNG: ${_currentPosition.longitude}"),
             FlatButton(
               child: Text("Get Location"),
               onPressed: () {

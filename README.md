@@ -5,7 +5,8 @@ so as to more easily settle down in their new community.
 ## Project Status
 Development in process and ongoing.
 drawer(pfp, direct to profile, notif, settings pages), firebase, geolocator for android.
-For some reason, iOS geolocator won't display the lat/long coordinates. I will try new implements of the package.
+For some reason, iOS geolocator won't display the lat/long coordinates. Will try new implements of the package.
+Also need to do further prototype planning.
 
 ## Installation
 Connect phone to computer and run program.
