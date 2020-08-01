@@ -25,6 +25,7 @@ to help them better settle to a safe, enjoyable college community.
 ### Programming
 - [x] Set up firebase for user authentication (android yes, ios yes)
 - [x] Set up geolocator (android: yes, ios: yes, but need to try diff implementation and see if that works)
+- [ ] Able to call/email/text
 - [ ] Set up user login setting
 - [ ] Set up user account (pfp, name, college, major etc.) and user info data for firebase to track
 - [ ] \(effective even for those living on campus during covid) Location-based networking
