@@ -47,8 +47,8 @@ class _MyHomePageState extends State<MyHomePage> {
     }
 
     // send sms message
-    // Android
-    /*const uri = 'sms:+1 650 555 1212?body=text%20message';
+    //Android
+    const uri = 'sms:+1 650 555 1212?body=text%20message';
     if (await canLaunch(uri)) {
       await launch(uri);
     } else {
@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
       } else {
         throw 'Could not launch $uri';
       }
-    }*/
+    }
 
     setState(() {
       // This call to setState tells the Flutter framework that something has
