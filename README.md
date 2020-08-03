@@ -17,6 +17,8 @@ networking to and self-realization; This app's target audience is college studen
 to help them better settle to a safe, enjoyable college community.
 
 ## To-Do List
+### Concrete Plans
+- [ ] 08/03: Set up UI/UX flow
 ### Side task that should be ongoing throughout the whole process
 - [ ] Work on prototype (what user info data will be used?)
 - [ ] What functions can be implemented?
