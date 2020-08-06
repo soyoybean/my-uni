@@ -27,6 +27,12 @@ class _Settings extends State<Settings> {
                 _getCurrentLocation();
               },
             ),
+            FlatButton(
+              child: Text("Disconnect access to location"),
+              onPressed: () {
+                //_getCurrentLocation();
+              },
+            ),
           ],
         ),
       ),
