@@ -18,8 +18,8 @@ to help them better settle to a safe, enjoyable college community.
 
 ## To-Do List
 ### Concrete Plans
-- [x] 08/03~08/04: Set up UI/UX flow
-- [ ] 08/05: Set up user login, data types
+- [x] 08/03~08/05: Set up UI/UX flow
+- [ ] 08/06: Set up user login, data types
 
 ### Side task that should be ongoing throughout the whole process
 - [ ] Work on prototype (what user info data will be used?)
