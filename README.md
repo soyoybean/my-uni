@@ -20,8 +20,8 @@ to help them better settle to a safe, enjoyable college community.
 ## To-Do List
 ### Concrete Plans
 - [x] 08/03~08/04: Set up UI/UX flow
-- [ ] 08/05~08: Set up profile (pfp, profile detail), find friends, and forum with friends page.
-- [ ] 08/09: Prepare presentation video
+- [x] 08/05~08: Set up profile (pfp, profile detail), find friends, and forum with friends page.
+- [x] 08/09: Prepare presentation video
 
 ### Side task that should be ongoing throughout the whole process
 - [ ] Work on prototype (what user info data will be used?)
